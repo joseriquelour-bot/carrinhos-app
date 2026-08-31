@@ -1,25 +1,25 @@
 {
-  "versao": "2.1.0",
-  "notas": "Botao Verificar atualizacao. Janela propria (sem janela preta). Configuracoes fora da pasta do app. Conexao do Drive embutida.",
+  "versao": "2.1.1",
+  "notas": "Botao Verificar atualizacao. Tela do Drive escondida no Avancado (a conexao ja vem no pacote). Janela propria sem janela preta.",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.0/carrinhos-win-2.1.0.zip",
-    "sha256": "be5ee4ac73ae12197659a899caead8467e46b3b69e46c9145c8058e2f748b06f",
-    "tamanho": 260439341
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-win-2.1.1.zip",
+    "sha256": "9f5880c17b7865bf45cc80e38250a3ff13bffa5686014e992922010c37f0b567",
+    "tamanho": 260439287
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.0/carrinhos-win-codigo-2.1.0.zip",
-    "sha256": "5f3ea95de0bffafc8b6a97b4b64a7d9de01d18d58fc419ce0f9c1d6d8ac3e6ee",
-    "tamanho": 61663
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-win-codigo-2.1.1.zip",
+    "sha256": "bd68abb52b5162ccf3d26c19c268f58ae68868e1f168391e1bc4cabf43c13874",
+    "tamanho": 61609
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.0/carrinhos-mac-2.1.0.tar.gz",
-    "sha256": "1a6cc36af7a3340043ba6f520aebf3f3e63861e84537adbb715b6cb4eb0229b4",
-    "tamanho": 239408845
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-mac-2.1.1.tar.gz",
+    "sha256": "106beba0f92dc74d819762b641dc211911fe9bc367a1d628d0f9f954d5b7089d",
+    "tamanho": 239409414
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.0/carrinhos-mac-codigo-2.1.0.tar.gz",
-    "sha256": "0e29c4630c2796b1e2a01513925051d2995e0948321aba18e1590cb9ecfb8d7b",
-    "tamanho": 50933
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-mac-codigo-2.1.1.tar.gz",
+    "sha256": "584485b66a2d01f9e0fba8b8b986740c23df0870c44ba89bc47898f4b37a9d03",
+    "tamanho": 50893
   }
 }
