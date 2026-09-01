@@ -1,25 +1,25 @@
 {
-  "versao": "2.1.4",
-  "notas": "Reforco: o Google Drive nunca mais repete os arquivos dos dias (rede de seguranca extra). Icone novo.",
+  "versao": "2.1.5",
+  "notas": "Pedido manual agora tem campo Dia do pedido: escolha a data e o pedido entra na planilha desse dia.",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.4/carrinhos-win-2.1.4.zip",
-    "sha256": "1500a52711bcd2a00213cf888c7220123bfe4ba419f2c0905b07e6b65e34a296",
-    "tamanho": 260479050
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.5/carrinhos-win-2.1.5.zip",
+    "sha256": "5149b8f69aa8145dbcf8245f5bf4700ffa4c034ac9c67f2b1692d354c6a44270",
+    "tamanho": 260479664
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.4/carrinhos-win-codigo-2.1.4.zip",
-    "sha256": "ed7cb5621d419b35cc326a519c684086d7545876801546a8916d99c005e500c9",
-    "tamanho": 101372
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.5/carrinhos-win-codigo-2.1.5.zip",
+    "sha256": "eb15f581b6f5b948f8297166484612d5b1b2f1bdff60419a0df595390ff04e8b",
+    "tamanho": 101986
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.4/carrinhos-mac-2.1.4.tar.gz",
-    "sha256": "f2d5e085cd260eeb46bbfb994ef7013b8ed1ecd45fac9b0d9c8480e6aee52a45",
-    "tamanho": 239534067
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.5/carrinhos-mac-2.1.5.tar.gz",
+    "sha256": "fe6400db3cf0931e132c520721ad4a6b3631e85684d2f1302c592a65f94194e0",
+    "tamanho": 239536171
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.4/carrinhos-mac-codigo-2.1.4.tar.gz",
-    "sha256": "b83e4e6768ea78dab17295a9dcd01d8cb7fdc46aecf6ee0f9368cdf2702c78c4",
-    "tamanho": 173364
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.5/carrinhos-mac-codigo-2.1.5.tar.gz",
+    "sha256": "65d306524a539c9e8233c788df8f07639e2898ae77b323b0ed56d1f4fc28a221",
+    "tamanho": 173957
   }
 }
