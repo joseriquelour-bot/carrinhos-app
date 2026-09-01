@@ -1,25 +1,25 @@
 {
   "versao": "2.1.1",
-  "notas": "Botao Verificar atualizacao. Tela do Drive escondida no Avancado (a conexao ja vem no pacote). Janela propria sem janela preta.",
+  "notas": "Botao Verificar atualizacao. Icone novo (carrinho). Tela do Drive no Avancado. Janela propria.",
   "motor": "n24.20|c146|1",
   "win_completo": {
     "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-win-2.1.1.zip",
-    "sha256": "9f5880c17b7865bf45cc80e38250a3ff13bffa5686014e992922010c37f0b567",
-    "tamanho": 260439287
+    "sha256": "d27af76fa0480aaeb20c4a74d5d24f978190e1be7e365197aabab167f26ece51",
+    "tamanho": 260458202
   },
   "win_codigo": {
     "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-win-codigo-2.1.1.zip",
-    "sha256": "bd68abb52b5162ccf3d26c19c268f58ae68868e1f168391e1bc4cabf43c13874",
-    "tamanho": 61609
+    "sha256": "929fcea9fb1afd4029aec46a55e77709073a0d5f3a8c692593ce1f14034cf05c",
+    "tamanho": 80524
   },
   "mac_completo": {
     "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-mac-2.1.1.tar.gz",
-    "sha256": "106beba0f92dc74d819762b641dc211911fe9bc367a1d628d0f9f954d5b7089d",
-    "tamanho": 239409414
+    "sha256": "131b5e9baf1eec1b36a125a510e51c17267aa7e9f9a89ed53df8c30478eef9dc",
+    "tamanho": 239438873
   },
   "mac_codigo": {
     "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-mac-codigo-2.1.1.tar.gz",
-    "sha256": "584485b66a2d01f9e0fba8b8b986740c23df0870c44ba89bc47898f4b37a9d03",
-    "tamanho": 50893
+    "sha256": "ef6cf065b267e4ccc7bae93bc08f13d92f113975bf336d35f14f243d7ea73258",
+    "tamanho": 73292
   }
 }
