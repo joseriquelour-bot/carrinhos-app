@@ -1,25 +1,25 @@
 {
-  "versao": "2.1.2",
-  "notas": "Icone novo (carrinho). Tela do Google Drive movida pro Avancado. Botao Verificar atualizacao.",
+  "versao": "2.1.3",
+  "notas": "Correcao: Google Drive nunca mais repete os arquivos dos dias; a IA so preenche modelo que falta; a busca nao trava mais em 100%. Icone novo.",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-win-2.1.2.zip",
-    "sha256": "bea7a2e0e44ac9a6ce3ba377ee546ea71e21c5c0baeff02dcc092710ddf4d79f",
-    "tamanho": 260458202
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.3/carrinhos-win-2.1.3.zip",
+    "sha256": "ab050d340a95412dbb0bdd87e86fc2c4b91c687d1d0592cf798a4bbad49202bd",
+    "tamanho": 260479046
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-win-codigo-2.1.2.zip",
-    "sha256": "36fce665f28175547cedbdc289ba9803783a2bfe31b71abde3004c58ff24d4af",
-    "tamanho": 80524
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.3/carrinhos-win-codigo-2.1.3.zip",
+    "sha256": "2081223d83b77f6ac117381e20be8b4df842038e0d6e221a7cefd9a9e020ce20",
+    "tamanho": 101368
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-mac-2.1.2.tar.gz",
-    "sha256": "30228b09d815b70ad3be8dd3208b59a89c4415b0f51352f6a8c53ba044010fda",
-    "tamanho": 239435123
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.3/carrinhos-mac-2.1.3.tar.gz",
+    "sha256": "c0423ca72fb0e8927251ef48029f4181d431dca2fa8f2235739e26b3930851aa",
+    "tamanho": 239536453
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-mac-codigo-2.1.2.tar.gz",
-    "sha256": "3ec90a5ce2e43235ca31531ef965cf25ca890d313940fe93c35c255f4084ee97",
-    "tamanho": 73290
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.3/carrinhos-mac-codigo-2.1.3.tar.gz",
+    "sha256": "71d63d17a6a487435b3f18847d6b1ad0a41937419019497eb1d9bd3d6f7edf4c",
+    "tamanho": 173358
   }
 }
