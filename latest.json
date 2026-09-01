@@ -1,25 +1,25 @@
 {
-  "versao": "2.1.1",
-  "notas": "Botao Verificar atualizacao. Icone novo (carrinho). Tela do Drive no Avancado. Janela propria.",
+  "versao": "2.1.2",
+  "notas": "Icone novo (carrinho). Tela do Google Drive movida pro Avancado. Botao Verificar atualizacao.",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-win-2.1.1.zip",
-    "sha256": "d27af76fa0480aaeb20c4a74d5d24f978190e1be7e365197aabab167f26ece51",
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-win-2.1.2.zip",
+    "sha256": "bea7a2e0e44ac9a6ce3ba377ee546ea71e21c5c0baeff02dcc092710ddf4d79f",
     "tamanho": 260458202
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-win-codigo-2.1.1.zip",
-    "sha256": "929fcea9fb1afd4029aec46a55e77709073a0d5f3a8c692593ce1f14034cf05c",
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-win-codigo-2.1.2.zip",
+    "sha256": "36fce665f28175547cedbdc289ba9803783a2bfe31b71abde3004c58ff24d4af",
     "tamanho": 80524
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-mac-2.1.1.tar.gz",
-    "sha256": "131b5e9baf1eec1b36a125a510e51c17267aa7e9f9a89ed53df8c30478eef9dc",
-    "tamanho": 239438873
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-mac-2.1.2.tar.gz",
+    "sha256": "30228b09d815b70ad3be8dd3208b59a89c4415b0f51352f6a8c53ba044010fda",
+    "tamanho": 239435123
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.1/carrinhos-mac-codigo-2.1.1.tar.gz",
-    "sha256": "ef6cf065b267e4ccc7bae93bc08f13d92f113975bf336d35f14f243d7ea73258",
-    "tamanho": 73292
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.2/carrinhos-mac-codigo-2.1.2.tar.gz",
+    "sha256": "3ec90a5ce2e43235ca31531ef965cf25ca890d313940fe93c35c255f4084ee97",
+    "tamanho": 73290
   }
 }
