@@ -1,25 +1,25 @@
 {
-  "versao": "2.1.7",
-  "notas": "Busca que trava depois de sincronizar: desiste em 90s e e so clicar em Buscar de novo (sem reconectar, sem QR). Botao Cancelar busca. WhatsApp caiu no meio: encerra na hora.",
+  "versao": "2.2.0",
+  "notas": "Sistema de garagem por cliente (Garagem / A caminho, planilha geral A caminho - todos), revisao da IA de foto (identifica o modelo do brinquedo, nao o carro real - revisao em lote dos palpites antigos) e pagina de nomes dos clientes (telefone -> nome, aplicado em toda planilha).",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.7/carrinhos-win-2.1.7.zip",
-    "sha256": "15c1108f61734a05fa59ffa28736b2a29ab71a0c3bb50627879e6258878c549a",
-    "tamanho": 260480758
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.0/carrinhos-win-2.2.0.zip",
+    "sha256": "d51410632b7f671178de3f1810c48b986a747c1fe42ad6658fe4fdb07cae7c24",
+    "tamanho": 260502519
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.7/carrinhos-win-codigo-2.1.7.zip",
-    "sha256": "ba612069492065fc7185f6d11a0afa4a020adfb610c8050ecfb4828b9a6c6d8c",
-    "tamanho": 103080
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.0/carrinhos-win-codigo-2.2.0.zip",
+    "sha256": "3c1638d83306360ffc6c49a33003479ddf24396ae01d51e9c6aa3feed2f94fcb",
+    "tamanho": 124841
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.7/carrinhos-mac-2.1.7.tar.gz",
-    "sha256": "ae6f94d9e4e5fc672e000296b3c8f7925360bb755a1f24085097b7b39ea23d32",
-    "tamanho": 239535034
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.0/carrinhos-mac-2.2.0.tar.gz",
+    "sha256": "dec85df3c9505a76ce256c7f08acb9845113d2c47072a3b52c42a52a0cbd454c",
+    "tamanho": 239555552
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.1.7/carrinhos-mac-codigo-2.1.7.tar.gz",
-    "sha256": "bad622519638012672e3ecdcdd530568751567d2aec4fae2d2c752dbb9558f2f",
-    "tamanho": 175020
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.0/carrinhos-mac-codigo-2.2.0.tar.gz",
+    "sha256": "a64241992f86c4657e09843889b23f1ec5d4dfaa37ae4d8d47ffa92c754aaa26",
+    "tamanho": 192958
   }
 }
