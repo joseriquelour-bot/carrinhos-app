@@ -1,25 +1,25 @@
 {
-  "versao": "2.2.2",
-  "notas": "Importar em lote na pagina Nomes dos clientes: cole uma lista telefonica (CSV do Google Contatos, .vcf ou linhas soltas), o app casa cada numero com os telefones das planilhas, mostra a previa e preenche todos os nomes de uma vez (a coluna Telefone nao e alterada). Correcao: a janela do app agora abre de forma confiavel (Chromium sem sandbox, com fallback pro navegador do sistema).",
+  "versao": "2.2.3",
+  "notas": "Documento de garagem por cliente no formato padrao (aba GARAGEM ABERTA + HISTORICO, Status/Pagamento em menu suspenso com cor automatica, totais, foto na linha). Nome cadastrado renomeia o documento de garagem do cliente. Icone da janela do app padronizado (carrinho). Acaba a planilha A caminho - todos (pode apagar do Drive).",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.2/carrinhos-win-2.2.2.zip",
-    "sha256": "ae61f0cbdc222efb01e8b0da066f91605f28d651e89f7d7aaf924ca366d8cc86",
-    "tamanho": 260508937
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.3/carrinhos-win-2.2.3.zip",
+    "sha256": "aefd7a44cdd35e6e75d104e48a0bdc5d3607a16b4c620a77f3b3e1ee9723ffb3",
+    "tamanho": 260564585
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.2/carrinhos-win-codigo-2.2.2.zip",
-    "sha256": "5d7ab66769f6c0fd7b301d76d4a544e34366bccecdc1a1d814fc630689e40b90",
-    "tamanho": 131259
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.3/carrinhos-win-codigo-2.2.3.zip",
+    "sha256": "a929fcb8ff9a5ca4b6d6aeb8954f89a0030025b317a8f7126f553e7526396742",
+    "tamanho": 186907
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.2/carrinhos-mac-2.2.2.tar.gz",
-    "sha256": "7afa80d7f5d62d6396106e1dfc7355833dc00f365d71469f9553b34759c42671",
-    "tamanho": 239561551
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.3/carrinhos-mac-2.2.3.tar.gz",
+    "sha256": "b6f6822b6bf119a9f6818566beaa8abde6630816f54d2b31594b7d6d4c99b7e9",
+    "tamanho": 239620343
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.2/carrinhos-mac-codigo-2.2.2.tar.gz",
-    "sha256": "f00f0a14b4eae56533bb6ba8987f8b0b37c1e5c67253783a08f239969e88ac90",
-    "tamanho": 199142
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.3/carrinhos-mac-codigo-2.2.3.tar.gz",
+    "sha256": "d784018f5f461775d03aeb64540f5558b1ca955b16708aacd43634c7cfdf5a3f",
+    "tamanho": 258577
   }
 }
