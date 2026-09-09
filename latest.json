@@ -1,25 +1,25 @@
 {
-  "versao": "2.2.6",
-  "notas": "Corrige o erro \"Unexpected token <\" ao importar uma lista de contatos grande (a exportada do Google Contatos passava do limite antigo de 100 KB; agora vai ate 50 MB, e qualquer erro do servidor volta como mensagem, nao como pagina quebrada). A pagina \"Nomes dos clientes\" ganhou botao \"Voltar pra tela principal\" no topo e no fim. Inclui tudo da 2.2.5 (a janela nao fecha sozinha no meio de uma sincronizacao/importacao; erro solto so vira log) e da 2.2.4 (correcao do .vcf do iPhone, foto do carrinho ao classificar, nome renomeia o documento de garagem, icone da janela).",
+  "versao": "2.2.7",
+  "notas": "Novo: area \"Utilizar WhatsApp\" na tela Nomes dos clientes. Conecta um WhatsApp com QR proprio (separado do QR da tela principal) e le O NOME QUE VOCE SALVOU para cada telefone das planilhas - inclusive contatos que so existem no WhatsApp (nao estao na agenda do celular). Mostra tudo como sugestao pra voce aprovar. Botao \"Voltar pra tela principal\" no topo e no fim dessa tela. Tambem inclui: correcao do \"Unexpected token <\" ao importar lista grande (limite 100 KB -> 50 MB); a janela nao fecha sozinha no meio de sincronizacao/importacao; erro do servidor volta como mensagem, nao pagina quebrada. (Tudo da 2.2.4/2.2.5/2.2.6.)",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.6/carrinhos-win-2.2.6.zip",
-    "sha256": "f5b31a60065f8fb7f07dd94bc1d968420eb20fd510ec6c4f0b2d6868c58a3a36",
-    "tamanho": 260566781
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.7/carrinhos-win-2.2.7.zip",
+    "sha256": "0175f1ae6403a9c74b2e595b3d196dc672e62e03f7c1cbc7c6cb987ff22cce4b",
+    "tamanho": 260571611
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.6/carrinhos-win-codigo-2.2.6.zip",
-    "sha256": "f1118993ffee07c8bdd758fc6c22b3f8be43450ef7053208f5da2ad3c7d86ee1",
-    "tamanho": 189103
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.7/carrinhos-win-codigo-2.2.7.zip",
+    "sha256": "8c8b404889b609f3481966809ed8ab1bdefa36f020cf94263b1264b382c9f950",
+    "tamanho": 193933
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.6/carrinhos-mac-2.2.6.tar.gz",
-    "sha256": "cbedbd5919bb1e391015f12c0a4cf90be33899427872b669458e60378f6db9b0",
-    "tamanho": 239622517
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.7/carrinhos-mac-2.2.7.tar.gz",
+    "sha256": "f13f150588c0f5505bd887a3230281c0da602ff230c170fa0a3e9a47e8c9d9f7",
+    "tamanho": 239626188
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.6/carrinhos-mac-codigo-2.2.6.tar.gz",
-    "sha256": "b5151eb86f074479dcce63055ec0533f7c92e5a2ae00aaa6e1505af8e5a9e271",
-    "tamanho": 260642
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.7/carrinhos-mac-codigo-2.2.7.tar.gz",
+    "sha256": "6fc75497145d92f6e58b99532452a21041054f73425c3fc25e7206dd7c189e4e",
+    "tamanho": 264410
   }
 }
