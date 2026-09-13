@@ -1,25 +1,25 @@
 {
-  "versao": "2.2.9",
-  "notas": "Coluna \"Nome\" agora fica logo depois do Telefone (coluna C) - os arquivos de dia que ja existem sao convertidos sozinhos, sem perder as fotos. Botao \"Salvar todos os nomes\". \"Utilizar WhatsApp\" ganhou a opcao \"Ler todos os contatos\" (nao so os das planilhas). Importacao de lista: guardar os contatos que ainda nao pediram (\"Guardar pra quando pedirem\"). Nova secao \"Incorporar garagem pronta\": adota um .xlsx de garagem feito a mao e marca os carrinhos do cliente. Corrige a area \"Utilizar WhatsApp\" que fechava o app no QR. Inclui tudo da 2.2.4 a 2.2.8.",
+  "versao": "2.3.0",
+  "notas": "\"Utilizar WhatsApp\" ganhou uma caixa de log (igual a da tela principal) mostrando o que esta acontecendo, com barra de progresso ao conferir os telefones. Corrige: o WhatsApp dessa area agora desconecta de verdade ao fechar o app (e ao clicar Cancelar / esquecer), do mesmo jeito que o da busca de pedidos - antes ficava conectado sozinho. Inclui tudo da 2.2.9 (coluna Nome ao lado do Telefone, Salvar todos os nomes, ler todos os contatos, guardar quem ainda nao pediu, incorporar garagem pronta).",
   "motor": "n24.20|c146|1",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.9/carrinhos-win-2.2.9.zip",
-    "sha256": "aadf63aad2de7b13a44a53ce9c35045e598a4fc997ea59825e0c72665b536fdd",
-    "tamanho": 260576158
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.0/carrinhos-win-2.3.0.zip",
+    "sha256": "2e86ed1e007234cbff36f60d689049f20315113a1bee6d4a67926bb009342bc6",
+    "tamanho": 260576987
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.9/carrinhos-win-codigo-2.2.9.zip",
-    "sha256": "3948a69a4a9b26e526c129f29bd6f8d13c2cf814b530e59450d383bb248d0b49",
-    "tamanho": 198480
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.0/carrinhos-win-codigo-2.3.0.zip",
+    "sha256": "e22ffa3fa14dc5f6c5196eb1b6972d515eed02ed4e0c9956529b64ea2f52aef3",
+    "tamanho": 199309
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.9/carrinhos-mac-2.2.9.tar.gz",
-    "sha256": "5b4efb0af2df7c87c301ab34c439b9600a323013262df9cadb78e3b9612bc0c6",
-    "tamanho": 239630832
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.0/carrinhos-mac-2.3.0.tar.gz",
+    "sha256": "61c74fb951b2c05335ff38ad8671b8930333dbd56f91ee7a37523f4356cf68ca",
+    "tamanho": 239631504
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.2.9/carrinhos-mac-codigo-2.2.9.tar.gz",
-    "sha256": "0c31121b026b4cc5ff8ac7bf414b413805c5fd4d4166eaf784b7d828f18d384a",
-    "tamanho": 268818
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.0/carrinhos-mac-codigo-2.3.0.tar.gz",
+    "sha256": "f720a1c7606557bec01ce1853c6da269a0e8cf26639ad406f77cb0b04c319719",
+    "tamanho": 269659
   }
 }
