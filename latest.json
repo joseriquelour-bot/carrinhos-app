@@ -1,25 +1,25 @@
 {
-  "versao": "2.3.2",
-  "notas": "Conserto: confere o arquivo do dia antes de subir pro Drive (nunca mais sobe .xlsx corrompido). EXPERIMENTAL: tentativa de destravar o download das fotos que o WhatsApp quebrou (protocolo dele mudou, set/2026) - pedidos continuam sendo capturados certinho, so sem foto/IA por enquanto se nao resolver.",
+  "versao": "2.3.3",
+  "notas": "Novo botao na secao 5 'Revisar identificacao da IA': Tentar de novo as fotos que faltaram - conecta no WhatsApp e tenta baixar so as fotos dos pedidos que ficaram sem (nao cria pedido novo, nao mexe no que ja esta certo). Inclui tambem os consertos da 2.3.2 (arquivo corrompido + tentativa no downloadMedia).",
   "motor": "n24.20|c146|2",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.2/carrinhos-win-2.3.2.zip",
-    "sha256": "9a0de7231b1adca7488e84295dff31ebb668a3131bb4971e7ab4f1355f98fa6d",
-    "tamanho": 260579909
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-win-2.3.3.zip",
+    "sha256": "48d3f8fa13981b93a560fe8788da58bc51ef9eaca8ad7b32464c080085b18ae3",
+    "tamanho": 260581549
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.2/carrinhos-win-codigo-2.3.2.zip",
-    "sha256": "22208cc055f09fd17bd8349d07800b1e9ab4dea82a0c7b35dcacaedb9274b241",
-    "tamanho": 201873
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-win-codigo-2.3.3.zip",
+    "sha256": "9b70ea9f455b9cd20bb8c34c9b3fa7d0d05d66e7f2501c576968dff8204dabb3",
+    "tamanho": 203513
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.2/carrinhos-mac-2.3.2.tar.gz",
-    "sha256": "f23695315c74b1a3ff6f19092ef643cef87bb909a7e6c6b965bd22360e4116e8",
-    "tamanho": 239634957
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-mac-2.3.3.tar.gz",
+    "sha256": "f18e7bb8fa0c6db3701dfe2575ba0dc5ec72ca8ce8dc2f114ab4e6b9dcc04cfe",
+    "tamanho": 239634394
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.2/carrinhos-mac-codigo-2.3.2.tar.gz",
-    "sha256": "d57562ea2bf207201cbd50d29cf47bbb43619677cbdbc7832baea982dfc60fcd",
-    "tamanho": 272102
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-mac-codigo-2.3.3.tar.gz",
+    "sha256": "35b49c2ac6eea60e833b21087779414e7ef79b7e738eca826d2e5b774bd7eaf4",
+    "tamanho": 274091
   }
 }
