@@ -1,25 +1,25 @@
 {
-  "versao": "2.3.3",
-  "notas": "Novo botao na secao 5 'Revisar identificacao da IA': Tentar de novo as fotos que faltaram - conecta no WhatsApp e tenta baixar so as fotos dos pedidos que ficaram sem (nao cria pedido novo, nao mexe no que ja esta certo). Inclui tambem os consertos da 2.3.2 (arquivo corrompido + tentativa no downloadMedia).",
-  "motor": "n24.20|c146|2",
+  "versao": "2.3.4",
+  "notas": "Trocada a peca que conecta no WhatsApp (agora Baileys) - corrige fotos que nao baixavam de contatos migrados para o novo formato de identificacao (LID) do WhatsApp.",
+  "motor": "n24.20|c146|3",
   "win_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-win-2.3.3.zip",
-    "sha256": "48d3f8fa13981b93a560fe8788da58bc51ef9eaca8ad7b32464c080085b18ae3",
-    "tamanho": 260581549
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.4/carrinhos-win-2.3.4.zip",
+    "sha256": "434dabac3517f40bb2b0fbbe5fe716f38c1849d19dccfb891a85d2dbf96f8a90",
+    "tamanho": 274607002
   },
   "win_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-win-codigo-2.3.3.zip",
-    "sha256": "9b70ea9f455b9cd20bb8c34c9b3fa7d0d05d66e7f2501c576968dff8204dabb3",
-    "tamanho": 203513
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.4/carrinhos-win-codigo-2.3.4.zip",
+    "sha256": "6df30f9b863071b439de99943c34cdd7d02d91f371d592e0a840411bb3b74253",
+    "tamanho": 210104
   },
   "mac_completo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-mac-2.3.3.tar.gz",
-    "sha256": "f18e7bb8fa0c6db3701dfe2575ba0dc5ec72ca8ce8dc2f114ab4e6b9dcc04cfe",
-    "tamanho": 239634394
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.4/carrinhos-mac-2.3.4.tar.gz",
+    "sha256": "c8e605624bd6cf936e8114d0cd5c9cdd6c69c6abce349ebcebbc05545fa0dbb4",
+    "tamanho": 257639391
   },
   "mac_codigo": {
-    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.3/carrinhos-mac-codigo-2.3.3.tar.gz",
-    "sha256": "35b49c2ac6eea60e833b21087779414e7ef79b7e738eca826d2e5b774bd7eaf4",
-    "tamanho": 274091
+    "url": "https://github.com/joseriquelour-bot/carrinhos-app/releases/download/v2.3.4/carrinhos-mac-codigo-2.3.4.tar.gz",
+    "sha256": "215ae0b8be4c6898554b30878295a83e876145709249a22e18c330bd53982360",
+    "tamanho": 280413
   }
 }
